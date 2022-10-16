@@ -16,7 +16,8 @@ role: Master student of Computing
 organizations:
   - name: Australian National University
     url: https://www.anu.edu.au/
-role: zsq19977@gmail.com
+Email: zsq19977@gmail.com
+    
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
